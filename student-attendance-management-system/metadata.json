@@ -1,0 +1,5 @@
+
+{
+  "name": "Student Attendance Management System",
+  "description": "An intuitive web application for teachers to manage and track student attendance. It provides daily tracking, a summary dashboard, and uses Gemini to generate attendance reports and draft parent notifications."
+}
